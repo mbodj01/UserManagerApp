@@ -1,7 +1,7 @@
 # UserManagerApp
 
 > Application client Java // Gestion des utilisateurs via Web Service SOAP  
-> Projet Architecture Logicielle · ESP/UCAD · DIT2 · 2025
+> Projet Architecture Logicielle · ESP/UCAD · DIT2 
 
 ---
 
